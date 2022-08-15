@@ -1,0 +1,7 @@
+ipykernel
+jupyterlab
+
+tensorflow
+matplotlib
+pyyaml
+h5py
