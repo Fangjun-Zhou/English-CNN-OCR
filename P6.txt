@@ -1,0 +1,29 @@
+##p: 6
+##id: fzhou48
+##1: Convolutional neural network
+##2: I'm using an English character dataset to train a CNN to classify characters.
+##3: true
+##4: true
+##5: true
+##6: 
+##7: 
+##8: 
+##9: Subjective grade of the quality of the project in comparison to other students' submission. (8/10);;;;There's sufficient comments explaining what I did with the code. The result accuracy is acceptable. I think the quality is not bad, but also not the best of all. I think I should save the data augmentation part I wrote. But since it was too slow, I finally deleted it.;;;;Subjective grade of the difficulty of the project in comparison with P1 to P5. (7/10);;;;This is just a small project that I want to develop, and is not different from the original object classfication CNN on tensorflow website. So I don't think the work I've done is difficult.;;;;Subjective grade of the creativity of the project. (6/10);;;;Character classification is not fancy at all. And I want to say that this is only part of the project I'm planing to work on. What I wanted to develop is a R-CNN network with character detection. But I searched for some paper about R-CNN, and not able to figure out how to develop a region proposal network with region correction in CNN output layer. So I just made this basic CNN.
+##10: true
+##11: None
+
+##0:
+ID: fzhou48
+Question 1 is correct. (1/1)
+Question 2 is correct. (2/2)
+Question 3 is correct. (1/1)
+Question 4 is correct. (1/1)
+Question 5 is correct. (1/1)
+Question 6 is incorrect. (0/10) Empty.
+Question 7 is incorrect. (0/10) Empty.
+Question 8 is incorrect. (0/10) Empty.
+Question 9 is correct. (3/3)
+Question 10 is incorrect. (0/1) Empty.
+Question 11 is correct. (1/1)
+Grade: 10 out of 41.
+Code: kwebx957<"<&?"?&<"<&<"<&<"<&="<=&="<=&="<=&>">&="<&<"<&0<="9<
