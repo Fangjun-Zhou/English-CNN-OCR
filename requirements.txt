@@ -3,7 +3,6 @@ jupyterlab
 
 sklearn
 opencv-python
-tensorflow
 matplotlib
-pyyaml
-h5py
+torch
+torchvision
